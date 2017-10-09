@@ -1,0 +1,3183 @@
+{
+    "id": "aojan",
+    "title": "Aozora Jumping Heart",
+    "group": "Aqours",
+    "groupId": "aqours",
+    "collections": [
+        "aqours-2nd"
+    ],
+    "color": "#ff7caa",
+    "kb": {
+        "colors": [],
+        "image": "https://s3-us-west-1.amazonaws.com/tachiagare/aojan-kb.png"
+    },
+    "audioFiles": [
+        {
+            "url": "https://s3-us-west-1.amazonaws.com/tachiagare/aojan.mp3",
+            "format": "audio/mp3"
+        }
+    ],
+    "videoFiles": [
+        {
+            "url": "https://s3-us-west-1.amazonaws.com/tachiagare/aojan.mp4",
+            "format": "video/mp4"
+        }
+    ],
+    "lyrics": [
+        {
+            "text": "Mita",
+            "time": 0.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "koto",
+            "time": 1.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "nai",
+            "time": 2.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yume",
+            "time": 2.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 3.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kidou",
+            "time": 4,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "oikakete",
+            "time": 5.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 7.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 7.8,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 8.35,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 8.9,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 9.45,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 10,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 10.35,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 11.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 11.65,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 12.2,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 12.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 13.3,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Shining",
+            "time": 16.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "road",
+            "time": 16.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "hashiridasu",
+            "time": 17,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kono",
+            "time": 18.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kimochi",
+            "time": 19,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Massugu",
+            "time": 20.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 21,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ikioi",
+            "time": 21.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yoku",
+            "time": 22.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kimi",
+            "time": 23,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 23.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sagashiteta",
+            "time": 23.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 24.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Chotto",
+            "time": 25.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "matte",
+            "time": 26.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "nante",
+            "time": 26.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "muri",
+            "time": 27.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tobidasou",
+            "time": 28,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Bokutachi",
+            "time": 30,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 30.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "naka",
+            "time": 30.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 31,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yuuki",
+            "time": 32,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 32.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sawaideru",
+            "time": 33,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                            Seno",
+            "time": 32.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "  Hai  ",
+            "time": 33.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai  ",
+            "time": 33.6,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 34.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 34.35,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 34.6,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai!",
+            "time": 34.85,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Itsumo",
+            "time": 34.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 35.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sekai",
+            "time": 35.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 36.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "atarashii",
+            "time": 37.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tobira",
+            "time": 38.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wa",
+            "time": 39.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "    Oooh...",
+            "time": 35.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 36.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Ooh...",
+            "time": 36.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 37.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Ooh...",
+            "time": 38.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 38.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Ooh...",
+            "time": 39.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 40,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "(Motto!)",
+            "time": 40,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Kakushiteru",
+            "time": 40.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 41.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": " Motto!",
+            "time": 40,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "(Let's go!)",
+            "time": 42.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Zenbu",
+            "time": 42.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "aketai",
+            "time": 43.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 44.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": " Let's go!",
+            "time": 42.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hora",
+            "time": 46.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "issho",
+            "time": 47.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 48.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne!",
+            "time": 48.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "         issho",
+            "time": 47.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 48.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne!",
+            "time": 48.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hajimetai",
+            "time": 49.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "My",
+            "time": 51,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "story",
+            "time": 51.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                              Saa",
+            "time": 53,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ima",
+            "time": 53.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "da!",
+            "time": 54.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Aoi",
+            "time": 54,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sora",
+            "time": 55.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 56.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "matteru",
+            "time": 57,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                Fuu!",
+            "time": 58.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 58.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 59,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dakishimete",
+            "time": 59.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Jumping",
+            "time": 60.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 60.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Sore",
+            "time": 61.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dake",
+            "time": 62.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "de",
+            "time": 62.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ashita",
+            "time": 63.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "e",
+            "time": 64.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "to",
+            "time": 64.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "susumeru",
+            "time": 65,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Seishun",
+            "time": 66.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "masshigura",
+            "time": 67,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hajimatta",
+            "time": 68.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "toki",
+            "time": 70,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 71,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                            Sunshine",
+            "time": 72,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "story!",
+            "time": 73,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "tokimeki",
+            "time": 73,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "zutto",
+            "time": 74.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "daiji",
+            "time": 76,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 77,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne",
+            "time": 77.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                      Fuu!",
+            "time": 77.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 78,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 78.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tsukamae",
+            "time": 78.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 79,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yuku",
+            "time": 79.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 80,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Donna",
+            "time": 80.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "koto",
+            "time": 81.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 82,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "okoru",
+            "time": 83,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 83.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ka",
+            "time": 83.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wakaranai",
+            "time": 84.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 85.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mo",
+            "time": 85.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Tanoshimi",
+            "time": 87.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sa",
+            "time": 87.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 90.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 91,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 91.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 92.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 93.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 94,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 94.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 95.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Open",
+            "time": 97.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mind",
+            "time": 98.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tsutaenakya",
+            "time": 99,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tsutawaranai",
+            "time": 100.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Saisho",
+            "time": 102,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kara",
+            "time": 102.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kanpeki",
+            "time": 103.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 103.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dekiru",
+            "time": 104.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "hazu",
+            "time": 104.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wa",
+            "time": 105.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "nai",
+            "time": 105.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kara",
+            "time": 106.6,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Toriaezu",
+            "time": 107.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "genki",
+            "time": 108.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 109,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tobidasou",
+            "time": 109.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Bokutachi",
+            "time": 111.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 112,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "START",
+            "time": 112.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "LINE",
+            "time": 112.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Gooru",
+            "time": 113.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wa",
+            "time": 114,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tooi",
+            "time": 114.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ka",
+            "time": 115,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "na",
+            "time": 115.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "               Seno  ",
+            "time": 114,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai  ",
+            "time": 114.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai  ",
+            "time": 115.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 116,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 116.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 116.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai!",
+            "time": 116.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Mabushii",
+            "time": 116.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sekai",
+            "time": 117.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "de",
+            "time": 117.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yobu",
+            "time": 118.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "koe",
+            "time": 119,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 119.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kikoeta",
+            "time": 120,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "    Oooh...",
+            "time": 117,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 117.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Ooh...",
+            "time": 118.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 119.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Ooh...",
+            "time": 119.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 120.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Ooh...",
+            "time": 120.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai ",
+            "time": 121.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "(Motto)",
+            "time": 121.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Kiite",
+            "time": 122,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mitakute",
+            "time": 122.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": " Motto",
+            "time": 121.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "(Let's",
+            "time": 123.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "go!)",
+            "time": 124,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hikari",
+            "time": 124.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 125,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mukou",
+            "time": 125.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "e",
+            "time": 126.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": " Let's",
+            "time": 123.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": " go!",
+            "time": 124,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hora",
+            "time": 128.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "issho",
+            "time": 129,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 130,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne!",
+            "time": 130.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "         issho",
+            "time": 129,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 130,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne!",
+            "time": 130.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Kaetai",
+            "time": 131,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "na",
+            "time": 132,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "My",
+            "time": 132.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Future",
+            "time": 133,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                  Saa",
+            "time": 134.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "doko",
+            "time": 135,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "e",
+            "time": 136.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Taiyou",
+            "time": 135.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 136.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "noboru",
+            "time": 137.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "you",
+            "time": 139.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 139.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                         Fuu!",
+            "time": 140.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 140.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 140.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kagayaite",
+            "time": 141,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Charging",
+            "time": 142,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 142.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Chikara",
+            "time": 143.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ippai",
+            "time": 144.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kanaeyou",
+            "time": 145,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "negai",
+            "time": 146.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 147.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Seishun",
+            "time": 148,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "pikkari",
+            "time": 148.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "da!?",
+            "time": 149.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "              pikkari",
+            "time": 148.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "da!?",
+            "time": 149.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Kaetai",
+            "time": 150,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "to",
+            "time": 151,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "omou",
+            "time": 151.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                         Sunshine ",
+            "time": 153.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mission!",
+            "time": 154.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Kimochi",
+            "time": 155,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 156,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kitto",
+            "time": 156.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "daiji",
+            "time": 157.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "da",
+            "time": 158.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 158.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                            Fuu!",
+            "time": 159.25,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 159.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 159.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tsukamae",
+            "time": 160,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 160.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yuku",
+            "time": 161.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 161.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Minna",
+            "time": 162.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "to",
+            "time": 163,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "nara",
+            "time": 163.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "setsumei",
+            "time": 164.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wa",
+            "time": 165.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dekinai",
+            "time": 165.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kedo",
+            "time": 167,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Daijoubu",
+            "time": 169,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sa",
+            "time": 169.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 172.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 173.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 173.7,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 174.3,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 174.9,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 175.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 176.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 176.7,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 177.3,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 177.9,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 178.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 179.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 179.7,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 180.3,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 180.9,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 181.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 182.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 182.7,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 183.3,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 183.9,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hai",
+            "time": 184.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 185.1,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 185.7,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Hai",
+            "time": 186.3,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Jumping",
+            "time": 188,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 188.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "datte",
+            "time": 189.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "hajimetai",
+            "time": 190,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "koto",
+            "time": 192,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 192.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Jumping",
+            "time": 188,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 188.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Charging",
+            "time": 193,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 193.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ima",
+            "time": 194.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mitsukatta",
+            "time": 195,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "bakkari",
+            "time": 196.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Charging",
+            "time": 193,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 193.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Gooru",
+            "time": 198,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wa",
+            "time": 198.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "doko?",
+            "time": 199,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "doko",
+            "time": 199.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "darou?",
+            "time": 200.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wakaranai",
+            "time": 201,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Wakaranai",
+            "time": 203,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "demo",
+            "time": 203.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne",
+            "time": 204.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tanoshii",
+            "time": 204.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sou",
+            "time": 205.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "da",
+            "time": 206.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 206.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hajimetai",
+            "time": 211.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "My",
+            "time": 212.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "story",
+            "time": 213.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Aoi",
+            "time": 216,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sora",
+            "time": 217.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 218.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "matteru",
+            "time": 219,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                Fuu!",
+            "time": 220.5,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 220.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 221,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dakishimete",
+            "time": 221.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "Jumping",
+            "time": 222.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "heart",
+            "time": 222.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Sore",
+            "time": 223.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dake",
+            "time": 224.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "de",
+            "time": 224.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ashita",
+            "time": 225.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "e",
+            "time": 226.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "to",
+            "time": 226.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "susumeru",
+            "time": 227,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Seishun",
+            "time": 228.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "masshigura",
+            "time": 229,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Hajimatta",
+            "time": 230.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "toki",
+            "time": 232,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 233,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                            Sunshine",
+            "time": 234,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "story!",
+            "time": 235,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "tokimeki",
+            "time": 235,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "zutto",
+            "time": 236.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "daiji",
+            "time": 238,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 239,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ne",
+            "time": 239.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "                                      Fuu!",
+            "time": 239.75,
+            "isCall": true,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 240,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 240.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tsukamae",
+            "time": 240.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 241,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yuku",
+            "time": 241.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 242,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Donna",
+            "time": 242.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "koto",
+            "time": 243.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ga",
+            "time": 244,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "okoru",
+            "time": 245,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "no",
+            "time": 245.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ka",
+            "time": 245.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wakaranai",
+            "time": 246.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "mirai",
+            "time": 247.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Yume",
+            "time": 249.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "o",
+            "time": 249.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "tsukamae",
+            "time": 250,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "ni",
+            "time": 250.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yuku",
+            "time": 251,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "yo",
+            "time": 251.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Minna",
+            "time": 252.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "to",
+            "time": 253,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "nara",
+            "time": 253.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "setsumei",
+            "time": 254.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "wa",
+            "time": 255.25,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "dekinai",
+            "time": 255.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "kedo",
+            "time": 257,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "text": "Daijoubu",
+            "time": 259,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "sa...",
+            "time": 259.5,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "text": "masshigura!",
+            "time": 263.75,
+            "isCall": false,
+            "color": false,
+            "isLineBreak": false
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        },
+        {
+            "isCall": false,
+            "color": false,
+            "isLineBreak": true
+        }
+    ]
+}
