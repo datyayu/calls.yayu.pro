@@ -1,0 +1,20 @@
+[
+    {
+        "id": "aojan-live",
+        "title": "Aozora Jumping Heart (LIVE)",
+        "group": "Aqours",
+        "color": "#ff7caa"
+    },
+    {
+        "id": "hpt",
+        "title": "HAPPY PARTY TRAIN",
+        "group": "Aqours",
+        "color": "#57a590"
+    },
+    {
+        "id": "miraiticket",
+        "title": "Mirai Ticket",
+        "group": "Aqours",
+        "color": "#ffaa22"
+    }
+]
