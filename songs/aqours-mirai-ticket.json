@@ -12,7 +12,8 @@
   },
   "audioFiles": [
     {
-      "url": "https://s3-us-west-1.amazonaws.com/tachiagare/aqours/TICKET.mp3",
+      "url":
+        "https://s3-us-west-1.amazonaws.com/tachiagare/02+MIRAI+TICKET.mp3",
       "format": "audio/mp3"
     }
   ],
