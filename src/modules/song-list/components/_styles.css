@@ -1,0 +1,15 @@
+.song-list {
+  text-align: center;
+}
+
+.song-list-item {
+  color: #448f44;
+  display: block;
+  margin: 1em 0;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.song-list-item:hover {
+  text-decoration: underline;
+}

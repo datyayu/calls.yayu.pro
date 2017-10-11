@@ -1,0 +1,48 @@
+.call-viewer {
+  height: 100vh;
+}
+
+.call-viewer-info,
+.call-viewer-lyrics {
+  height: 50vh;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.call-viewer-info {
+  text-align: center;
+}
+
+.call-viewer-title {
+  margin: 0.5em 0;
+  font-size: 1.8em;
+}
+
+.call-viewer-artist {
+  font-weight: normal;
+}
+
+@media screen and (min-width: 765px) and (orientation: portrait) {
+  .call-viewer-info {
+    height: 40vh;
+  }
+
+  .call-viewer-lyrics {
+    height: 60vh;
+  }
+}
+
+@media screen and (min-width: 765px) and (orientation: landscape) {
+  .call-viewer {
+    display: flex;
+  }
+
+  .call-viewer-info,
+  .call-viewer-lyrics {
+    height: 100vh;
+  }
+
+  .call-viewer-info {
+    width: 50vw;
+  }
+}
